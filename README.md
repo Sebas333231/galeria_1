@@ -5,6 +5,7 @@ Este proyecto flutter se trata de una galeria de 4 imagenes, tambien contiene un
 
 
 el codigo del proyecto esta repartido en dos archivos dart
+
 ![image](https://user-images.githubusercontent.com/110652225/208935503-e17d51c1-f752-4ee8-87d8-d3ca19fc8cf1.png)
 
 
